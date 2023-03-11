@@ -22,3 +22,19 @@ body{
     background-repeat:repeat-y;
     background-size: cover;
 }
+.inp{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    color: lightblue;
+    position: relative;
+    top: 100px;
+    border-style: dashed;
+    background-color: gray;
+    
+}
+input, select, textarea{
+    color:gray;
+}
+
+
