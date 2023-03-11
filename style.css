@@ -1,0 +1,24 @@
+a{
+    color: bisque;
+    
+    
+
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h1{
+    text-align: center;
+    font-size: x-large;
+    color: bisque;
+}
+mark.red{
+    color: red;
+}
+body{
+    background-image: url(back.jpg);
+    background-repeat:repeat-y;
+    background-size: cover;
+}
